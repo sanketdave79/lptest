@@ -1,0 +1,10 @@
+{
+    "name": "admin/www.lptest.com",
+    "authors": [
+        {
+            "name": "Sanket",
+            "email": "sanket@techmentation.com"
+        }
+    ],
+    "require": {}
+}
