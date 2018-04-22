@@ -12255,6 +12255,7 @@ html[dir="ltr"] [data-responsive-menu="false"] .bd-horizontalmenu-1 .bd-menuitem
   -ms-flex-align: center;
   -webkit-justify-content: center;
   justify-content: center;
+  background-color: #ffffff;
 }
 .bd-menuitem-2 > a {
   cursor: pointer;
