@@ -1,7 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="615f2c20-1ef7-497c-8018-05d6d8df8a28" name="Default" comment="" />
+    <list default="true" id="615f2c20-1ef7-497c-8018-05d6d8df8a28" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.cycle/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.cycle/cycle.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.cycle/jquery.cycle.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.cycle/jquery.cycle.lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.hoverIntent/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.hoverIntent/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.hoverIntent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.hoverIntent/jquery.hoverIntent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.hoverIntent/jquery.hoverIntent.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drupal-project/web/assets/js/jquery.hoverIntent/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_admin-block-content.html._b82RilMPk5oYq7u14OUD3LQy2/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_admin-block-content.html._b82RilMPk5oYq7u14OUD3LQy2/nBtYp0Ce7r6W-wIcyq5IJJDNWy6iVq-0TPxMQFRVn0Y.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block--local-actions-bloc_ZhkNtgN-0zrQhjbjp8Rn662GE/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block--local-actions-bloc_ZhkNtgN-0zrQhjbjp8Rn662GE/9d0JIHGHFhPIIm0vzVQy_AxqSgE_J8rh4cC2NcBOgoI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block--local-tasks-block._XrY-Gbbe_3ZGK_eVUo36wAuEb/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block--local-tasks-block._XrY-Gbbe_3ZGK_eVUo36wAuEb/Wc1ViTDHkVdjh9vys76WQsSP0KGrwjSDLj8UkkCVHws.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block--system-menu-block._oU3h3B30MaV88C3HsZIHq6JK5/IpFTHEXHBlRRzB1Jb2IbLoI3nmiXZoBocrfrvODQb4E.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block--system-messages-bl_ZI0iUqt_t91aPosCA454NgoNz/Nf9_vnrp3-eoW2g0wOaM4nGcctjx5-46anedkge0rEQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block.html.twig_FmBbhY3dBW1vciXPiNALtJe17/yMFtx6YltkiDZTt0EgQd2gx699fVqQRZqfpVe22cnyU.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block.html.twig_RaxcD_Ozyj4rZR7jTJXMDcNYp/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block.html.twig_RaxcD_Ozyj4rZR7jTJXMDcNYp/UmINtK-KGLc3eZGtsnpKz3uXffmvRkLvn7OKmI4OCyc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_block.html.twig_SPyKCXAOAP3fcdrOgkAHxAZj_/I07-and1vNYHBPyWreG1hbdXWvdP2Hg5Nq-N2cOhNjE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_breadcrumb.html.twig_H4UQfgZP18ZL0vxRxVUOyXGQy/YJi5hArKZkAFtR7GS-smJbmbrwWa4TQGMWhKeJODBfY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_checkboxes.html.twig_Up4mIzguHcTBvvshUcfAEw_bR/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_checkboxes.html.twig_Up4mIzguHcTBvvshUcfAEw_bR/tArdUKfOMm4f4UJf903pce4OWovje6wFqE8xQd1-I_Y.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_confirm-form.html.twig_EhUyDAUF7kfVtBJPK6zT4SgAi/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_confirm-form.html.twig_EhUyDAUF7kfVtBJPK6zT4SgAi/K8rorEpdD00zSkbolwe5lRGwqCtbsVpeW-P8dyOD4Is.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_container.html.twig_5ytYVUs_gdkx819cOy1xqJ2Z_/zukcIBWy9r0JouPI0mHpmbnXDXMyb5g2fHAX_5Vr9EY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_container.html.twig_GxOCeeuKI3WMX-XvG7xBH41LX/oGHdHUhfqzSJfH6q2NZ0UrfiaA_rcWymGmTEaOZagR4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_datetime-form.html.twig_F5e-roY2x9_yW4qxQPvi924S5/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_datetime-form.html.twig_F5e-roY2x9_yW4qxQPvi924S5/wbhrvZ7a7UfHCWoi06ydYjW0DUjilrFeT1atObmCvn0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_datetime-wrapper.html.twi_2ddoPg6LtzESyKZ-tP28Pgpbs/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_datetime-wrapper.html.twi_2ddoPg6LtzESyKZ-tP28Pgpbs/4W2KHMbyKUZz1fR7_amT-ank8Td10hQ3ariQIUCIU9w.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_details.html.twig_fYDTvAlXbWREXiPKMJiQezIwL/OOCsbEB4MCusPWVoRWRXF7TtSNsR2Ww2HUvqk1Fs4-Q.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_dropbutton-wrapper.html.t_j2woAgHDNXq28XBq6p1VlDSuq/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_dropbutton-wrapper.html.t_j2woAgHDNXq28XBq6p1VlDSuq/tPm6k9aGHtqhY1MBln_hbRLMA8z2H2DSORf1nJxHr7U.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_feed-icon.html.twig_GzHwYygHdH77hQiaDIr3hDVlR/BeH_go2gc0cBxV3bh6ocLO8cNYHkZ1njQ_pxvqoZ5JI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field--comment.html.twig_AZ15AieTs49jEpANwLx6EqDxH/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field--comment.html.twig_AZ15AieTs49jEpANwLx6EqDxH/zwbSQg1BRQsTUUm_zImqcJAi2sh13WzVmBHPx5Ak7iE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field--node--created.html_sXpLADk7_z0LYJCLQRO8KsECn/PFqphO_6jPoFfdPCPX58IM3ijWPVN122eerPMPSvlpY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field--node--title.html.t_884UyZE1mYobldHSK8JGmokLD/bmiP3UVyx9R9BB9-NCusegsWpaU8ECCcorNnRHQPAnI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field--node--uid.html.twi_arGi7nhpEHzUy2vhAE3_8Tx3x/J5lj68VA4ZEn6A_JcHo1n57qXBGwSKLDWlQ1Gmr8oqc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field-multiple-value-form_6E00ngRHELccpSLFMajoRhr4F/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field-multiple-value-form_6E00ngRHELccpSLFMajoRhr4F/0YGpMREfjgT2kHIoifWpw7XLpoYXyVMmA4iPfJNxjAc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field-multiple-value-form_AE4shxHeMuGjoxGtgyp8_vTAw/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field-multiple-value-form_AE4shxHeMuGjoxGtgyp8_vTAw/076jEtJARCyEj7parJiwjLiBn5nXuqjUznsPZ7QdjbQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_field.html.twig_GYq9YZZfdUrZslnFXniRNr4_G/wu0xXg3NpFWLOAR9I7D8ZiQtqA9rqUzXG9nHCr24YsM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_fieldset.html.twig_JMAAwhWf4E9thX8NFpCu7nvgO/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_fieldset.html.twig_JMAAwhWf4E9thX8NFpCu7nvgO/liWK2-yCcVpitiZbhqaCohWKWP2J0xq5YSttnH-ROcs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_file-link.html.twig__xP4ZKUjMG1Br_4AamdWV9Fbb/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_file-link.html.twig__xP4ZKUjMG1Br_4AamdWV9Fbb/RV0HtTAP8ik8X6V2e4-780DEa82cS1z6c3Oi0W2n0bs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_file-managed-file.html.tw_HkqVPWmjiNy99wdOtzEVGpi25/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_file-managed-file.html.tw_HkqVPWmjiNy99wdOtzEVGpi25/ChypWsgyXgJZDN0ISe1AZeKD7gRd41IkFDyTJhX-2jA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_file-upload-help.html.twi_WMZNPiQT8tKxmVUNwUq0L1oIP/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_file-upload-help.html.twi_WMZNPiQT8tKxmVUNwUq0L1oIP/2SnDWHvj3EMtCKmzxrpMV_J5HQnVjidrJTnl3DiWlvc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_filter-guidelines.html.tw_CV2TxEe8CBFaFaP5fAB0_BgAV/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_filter-guidelines.html.tw_CV2TxEe8CBFaFaP5fAB0_BgAV/Le-fZHnVtr8j-MCbORMQQ-WeyTUZjYzaRmLvFUuzNFU.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_filter-guidelines.html.tw_Hu1-o_X_2SkTn8U8b_OM6Kmp4/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_filter-guidelines.html.tw_Hu1-o_X_2SkTn8U8b_OM6Kmp4/FKN-IA0JfYDQ6EIfMnP4MqnkMNn8u_ZKQTJvEYyQrj8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_filter-tips.html.twig_faY6cvJtqZi4B5rwS0DMU4mqK/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_filter-tips.html.twig_faY6cvJtqZi4B5rwS0DMU4mqK/stPntKkJkKfU89veRz9WUnYCnlrQ9laJA4V_uGHlFio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_filter-tips.html.twig_qXncMqUjmGwz-IB5FsYmrZMwg/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_filter-tips.html.twig_qXncMqUjmGwz-IB5FsYmrZMwg/iEZwBba_I7Okm5puMED_UUkFZTHUMWSAz4vpgZD9KTc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_form-element-label.html.t_2F0PKg0rvSEbfSrpsvdlvWqiZ/aZ5-3tdezMhLBMYTfJW5HEaCHx8_EMvEWqySA3cmZvw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_form-element-label.html.t_LIUK9REF8eGBcgyB37knqChLi/Mc5BcAlAgo-lGQm0tZMeoiG4d-HwTYAJfKn3db_eGHQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_form-element.html.twig_-8VoksTgTmjeqMtgqXqP8lzH2/Hjgl_OIWk42GrvJKCxUIskGWDQvvWj-1agu69JCfgVU.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_form-element.html.twig_dJcTIbdx1y7B0dbOtEyyZSSZ1/Ty4sG4LX43_LLJuUAVnFOqkXV_OmmMJ-TGN7q7MFyE0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_form.html.twig_8YQNKHjXLNkZYBkmHfFcOslf6/3nzpJUvUtmcjIfUlddSEGBQbDUyh3ea3YflkIVRT9wE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_form.html.twig_yB95M-mH2KEXj4tKtKISfLbel/W45MajBELUs-vm30nTggapz6rejpJgcaLCRwvtOuyc0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_html.html.twig_JDl4K_OWbDK5EGwkVx0zk3oa4/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_html.html.twig_JDl4K_OWbDK5EGwkVx0zk3oa4/cC4en9Ys-sZmrwmZhEN4s7Nj32osgHaVNbZvz0XVFl8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_html.html.twig_gQv-GORxUVif_Pag4s-5z2NkO/PkY2mV8r9ws-LHaERpMoOZ7GKBi8aXvVoGKEa6CLWso.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-formatter.html.twig_7Eyx5voLgHkABnKhOTZ3nv9Ow/p49VHpkM5Zo5sR_kgv8O2yc1lRpQ-swJwC862t5Ma5c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-formatter.html.twig_Y7hawJAFpjxvpRyARJ20VB68F/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-formatter.html.twig_Y7hawJAFpjxvpRyARJ20VB68F/WAEZ2tB_qT9PUg6-oUH-clnrmZ9tcL4UknsRI0Ems-A.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-style.html.twig_VGEBHNtj0BuB_3OPm-NmHohny/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-style.html.twig_VGEBHNtj0BuB_3OPm-NmHohny/DH7PHXT_SByXsv1gu9htdNtk3qRzLr7Z33207KMq3B0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-style.html.twig_upQjY1NRrw6w-I0pXiOfyYqp2/s4LZhuBBz8EooJExZkgjgdmByEf-9vjS8R-sTHLsP7g.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-widget.html.twig_jNuSj2GsE28r0k9UxM8w6EOFv/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-widget.html.twig_jNuSj2GsE28r0k9UxM8w6EOFv/obc476XlOrXE70rcWVXcPilxNRMMfuFNZnLtEvmimPE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-widget.html.twig_zt7Dum6Vp3NyPWGF5iN403Cka/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image-widget.html.twig_zt7Dum6Vp3NyPWGF5iN403Cka/LIdXDWSOWtrASJyQK95RP3p0PXJZzzV60wVEsgSno7E.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image.html.twig_ITS0znd8FnUJOXPKyZZ6PppVX/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image.html.twig_ITS0znd8FnUJOXPKyZZ6PppVX/Uf2OGOQh0jvTxvriMrXycpXp9CoQjbuZACIC6r-kYwo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_image.html.twig_cCMd3O5N2b3Q7Ov__TdYJ3UjU/OEUwnP5gTUQ9m365jztq7dpRyWD1RBU_z0Xs0VITBFY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_inline-template_T-xhV_TNNJ3iO7wKK2rml8iOw/Xo_Ga6j9JkFAfA003V4IBGIUcyBUdF5_dHWlyi8I7WQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_inline-template_U14AovzfnsaINPcruxLPqxMG_/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_inline-template_U14AovzfnsaINPcruxLPqxMG_/xtsX2XxIpP5-rq4kf4N3SBfY8vgIlD2gMspfbPD_woc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_inline-template_ZhAG0kBUKpAs-46iHY1aVRqZS/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_inline-template_ZhAG0kBUKpAs-46iHY1aVRqZS/uD436i8kciEBjpE0dyeg6XoZDBzSqqzbrm_YfG-b878.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_inline-template_f9Mjrl2yf8Rq2zAr0n4lhwmFC/8uOeZC1Vci-Dge4R0IwIEkpMtgtCw9sJVVDdGKzvaA8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_inline-template_qNZqlR_8RUiPKSBIETt8tQKCy/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_inline-template_qNZqlR_8RUiPKSBIETt8tQKCy/0CZHjW2QCgqNWl6-T5abfTC1hiZfyEYqK2hrLP1eBH8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_input.html.twig_ERuDt4GH5s6IDX5Rk7p6rRnvP/s7n4eVZxsVkP2c-UrwQFwUSfgG_UlEBVh5nIOQoQ6M8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_input.html.twig_jYi6QYvFpjKLYKZCId7BmHw8z/xDuCZiAXHove2jSK8msJKm6llLkRXGDJR0xJp5ihjE4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_item-list.html.twig_1SeskqGbWCrGtyFEp_cHSP1pB/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_item-list.html.twig_1SeskqGbWCrGtyFEp_cHSP1pB/E7WciB8ImbHsxH7-3gOnO9Ww5nW5Cg6E_HtdLlMEYN4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_links.html.twig_IUCcpLTxRP2MZxM7MKy3giQf1/TX8PWHLrrWqC3hsnzGG8GwqVl7CYe_Om-HbPuVFAkeU.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_links.html.twig_KA9UNfGPPAAfgCg_weyFshk4D/MMel9ZpVK-L97tvOR2-8nLj0E00enjpLcVq-_xz91MM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu--toolbar.html.twig_rEyH-nXH5XjWIMdT-yjXXlvnB/6IxKv47vsl2hz_ZBDGkQVbZYSrQet6yIvE2_1ZSHvVQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-action.html.tw_SmEXYQdfLExe45IPIpBWLlPo2/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-action.html.tw_SmEXYQdfLExe45IPIpBWLlPo2/qCrZR4pVpIkKg1lwTasgVgTaD4P0xgyq70w4R1ohytU.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-task.html.twig_0KLUXuZV5rOr24kCHCMZrjI7g/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-task.html.twig_0KLUXuZV5rOr24kCHCMZrjI7g/9LhtGa52jdsWJjXWXRCblC-LgoVtn8yRhZC4_Ou7Cso.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-task.html.twig_CyZBDRlpXnhaZDz3KzNHr4Ys1/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-task.html.twig_CyZBDRlpXnhaZDz3KzNHr4Ys1/zkuxDcxL2XhSgj_Ww0mlgmYosdEwZtoebOB4SvcI-mA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-tasks.html.twi_cN6itNNgcWjtw3a3Y-zaiLuWl/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-tasks.html.twi_cN6itNNgcWjtw3a3Y-zaiLuWl/MaP8KEnDSkJQOD-GTS2OazK5rFDYWdW10qqw5m1mHSM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-tasks.html.twi_vZrEgCVxmQOJgo2t80yArbQKF/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu-local-tasks.html.twi_vZrEgCVxmQOJgo2t80yArbQKF/w2_Y0gf8Wcpf0as_XiZXt0uP5NgG4rlvahwJbMJIS0U.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_menu.html.twig_zlQq-cgKHGukKUZ96OSaUwOgq/A3E2NqTRPBsdn8jgIsO2HBaAz6npzu9WgPFR28QZk98.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_node-add-list.html.twig_9lNe_AGWOp4kbKIL6UKoWnpxx/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_node-add-list.html.twig_9lNe_AGWOp4kbKIL6UKoWnpxx/0DKxY7l49tVtCq-7pq81bbQy43i_IY-AwTwuqSq2J8o.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_node-edit-form.html.twig_iQ4IkgJeDgh_36w5zSoMMr1Lh/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_node-edit-form.html.twig_iQ4IkgJeDgh_36w5zSoMMr1Lh/H_Vl3I-ppL93V0xS0xsYhBXjDYBIoqvdoDvId7mb36I.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_node.html.twig_KKyAbx7X6isIjHqGEgKzES9SR/k5hhBo1VzUw5jp42mQ0rMoI-J43VED-5EmrM_E7kSpQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_page-title.html.twig_Kj22JzrbuWqFmqffbsmZOndRV/nHTpZuPlxTirNnfi6QVLEFZAbVIkgwyXurLH6fl41Jw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_page-title.html.twig_ZIk-CQMn_1964mM5dImTQvB7D/5P_yijly-IngSjpsKpShZOenacP7vGd55AXWx3L0dPc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_page.html.twig_4lpTSDXUEEMHw-vvck3FN_qqf/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_page.html.twig_4lpTSDXUEEMHw-vvck3FN_qqf/Dr3RMZOHm8F1cqKHjGCZP_JMQzEnEWp9H3s_Llde5_Y.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_page.html.twig_bSBFdzJm9gjsbRg0uQYoaPOTU/E0Xj-O8OguBUw9Q74QFnZumCr8t7stjyQOh_53Kl6d0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_pager.html.twig_sbCI69R_UAdtPaGn0ZzTyeyem/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_pager.html.twig_sbCI69R_UAdtPaGn0ZzTyeyem/WbZ7-lnJ6k4saAZ10j0h6nPEwbxxdD0CziGu5ve9DDI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_pager.html.twig_wuisTQq_UNqpIbLkUVnuic7Um/EuP3yN3a7WkIdy4WEj6ST7Y_4yzacn7dEpOBKaABFQI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_radios.html.twig_V2smhe69eB5Clb82u7cU7cZiT/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_radios.html.twig_V2smhe69eB5Clb82u7cU7cZiT/2NkRmfjD-aEDQE9KyyYOhQ-S7-CfwnF26lhOPtTVg6c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_rdf-metadata.html.twig_Kh8gEmCQkBku3dBtVxICQGnro/f3-qSVwHrBO4vmr7-CWnjYndVHp5yTBWH0ghh6A10T0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_region.html.twig_MR3fMmw95qbpuDFvbyuI9QHlG/cEd0T8L1TF5yEowcy54eSiL-mTxM170bmXyzGaMOEls.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_region.html.twig_N7xxFtTZo7fJdd3dGlr0lqgXu/dhxHHQ-ccoswW5Sf8Luw5ZEUYQhyecLNY9bmzMuCCD8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_select.html.twig_0IVUQ0XfI9ESJGtLg3Ow42C-L/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_select.html.twig_0IVUQ0XfI9ESJGtLg3Ow42C-L/_on--1VJv_vi6dSeGr8ug68JprRFQ_lNWXjC59lt2Aw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_select.html.twig_Mr8lFiPaNe0gAm8QCjlpAZN1y/QTpRfuT28Nkmx9vEQk9E8hQN9V2irj44y2Sf_0CPC6E.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_status-messages.html.twig_3IhisVoQLOYIb64NBegMDuHJs/Epua3CAF83dM58-ntQpwUsanuunowUKADMDaoPKmuAM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_superfish-menu-items.html_Rr3kCYkcRKR3_KqWBaIcL2V6b/a5Q8rxMpQhuU6T2FPlCfvY-IQnPr7-P5igQEZe-aXuA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_superfish.html.twig_uLb9GOy2f4fQLNfFvNxlKctNI/OOpbSrVYuqQyJWm1obvI1ZtPojX40Iywhs61Omg4HXw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_system-config-form.html.t_Bn4vu2o7XIZ0gjX27fjj6hRCE/JmSQgq5UyxMIIEzIcMsQPjc6p3wU8AGwN85vFSmGjyQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_system-modules-details.ht_OsB89GytQU2wkdOHKvxlNH2Pw/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_system-modules-details.ht_OsB89GytQU2wkdOHKvxlNH2Pw/8pTXpRix0nYDWxV8YuavHiQsQopZpvFk1bt998d6Yu0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_table.html.twig_WzfUyz-QigqQFjRyrFjCNRCJk/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_table.html.twig_WzfUyz-QigqQFjRyrFjCNRCJk/RYrdt9I1BFqabgeLyzAwmEcSX3lcu9m8EKF-U4T53AM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_tablesort-indicator.html._tFx2WSqAiQR4Wl3l6whkTy-cm/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_tablesort-indicator.html._tFx2WSqAiQR4Wl3l6whkTy-cm/RMFPDAKprVHrusA32O6vl2LZacTNOYrKOWQ35VGc6-4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_text-format-wrapper.html._pdXMCJ6WOpEKicvwfELq8Gu3l/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_text-format-wrapper.html._pdXMCJ6WOpEKicvwfELq8Gu3l/m-EjAk7ZEsxkIxmpguKxeMsEx8Uw8UmFeAW6JUZMWSE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_text-format-wrapper.html._rkOt_RqdvLZ9AhHvonQSYKBWh/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_text-format-wrapper.html._rkOt_RqdvLZ9AhHvonQSYKBWh/lEaeJQcddHerOZ8IjZZutDZSPyvB7ODw0TImF8jQCMM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_textarea.html.twig_meCIS2I44ZfJMIgyV2IbwnPw_/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_textarea.html.twig_meCIS2I44ZfJMIgyV2IbwnPw_/pd1jlswlmqEGkRJpbzKrOOvJAsUTiWa-_t0nt0lWKvc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_textarea.html.twig_ocBXeATryjI-jy0HkU2dSv93u/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_textarea.html.twig_ocBXeATryjI-jy0HkU2dSv93u/sqQTu5zjn2fWFSJeFiCGoBzuHjk9qcdaAbcMPY44fcI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_toolbar.html.twig_6OS5XDMFNd05xfubEcPy9VaSc/A3jZKeJq687VcCtPvpBi1g3fwGgeEqxLN51_KVaCbvQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_toolbar.html.twig_N0BIS-JpAaJz3qIMI6RT4GcGl/mq7F9vCAMYaBQr-8inxha6dYDglhllmceU8yq8TkBAQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_user.html.twig_KbMhRGkCcro11IQMqVWuC1V7a/Kp5EAomU3HcHWoiPrSGy8-V1NriOTW7cSboAzeHHWnw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_username.html.twig_74k6zzwzKemDHVvqkbNDaohvx/Dmi89w0QSLJdFOpeEMcyvugMhI18VsEKxIsTd0Lh7QA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_username.html.twig_tlStYGbLybmZLcjk08jW1Et4T/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_username.html.twig_tlStYGbLybmZLcjk08jW1Et4T/y86CYNs0OL54cJXLejDJ-SLbmV33yVZz2LIxllolHX8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_vertical-tabs.html.twig_OHW9bw8_8cs-YdwpV62bMml0w/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_vertical-tabs.html.twig_OHW9bw8_8cs-YdwpV62bMml0w/X3WihJRu9Iz4NDDtKAQn9m0eFP-b89Jrm7Z18WMogPA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-exposed-form.html.t_JZYuPwCLpIoyxTtlSz1OahGAL/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-exposed-form.html.t_JZYuPwCLpIoyxTtlSz1OahGAL/c6S7zobFUZVa-BJTbAjBxMc76fEYFfV-8XCTs3MTs7Q.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-slideshow-controls-_1-glVB9SR7jfvBA8wmPx3bz5L/kawlrZHCXtALSE50Hp8L6ZXAPInAkATxRthiAoeGV-4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-slideshow-controls-_Ar0JhChwi2suhmzilRtXJxXJk/rL0frmyFtthad9W_Nsyf23S-6E1lWpOoSJoNk72XFWs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-slideshow-controls-_Xyv_bIPh1cXHDBOW4thQB8O9j/Qsh6B1YL6C7sY4ZZL6j9_LtMdgNx0ZFknebMBn3zh9E.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-slideshow-controls-_kXUbyutw4c_mAoHLIy7ujvVgb/n6NAkiNTltpfvHV7KfVU6CB9TzvLxHY9wyLM19EwWQ0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-slideshow-cycle-mai_R0asfJ-sNoc1gasBGU3t4P88p/3zSFOurSNsuFc4bZLznxuujH9n1XhcoPSUeN1pVulps.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-slideshow-cycle-mai_cHBWQdoJz17rznNIOBeZ62l_w/JYNXKsOBuga06N0I-OLva-GOJvTsE3rrxs__CTo5OWA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-slideshow-cycle-mai_e4S7xQXEOko2DGsSNhu0S7iHg/PfIJcCCAiBIpu2Uxg5AQfBVLweyFAcpo9Rq2gHz1BHU.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-slideshow-main-sect_ocMbr3RrdceBzC7dT2jcrNI3R/LoV5E-03p0zM54hIi0QgjHDbzjvT-_ekCM_ZgLlO3Bc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-container.html.t_3Ai1e8i8AVttLeveOy7LgsTeq/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-container.html.t_3Ai1e8i8AVttLeveOy7LgsTeq/OW7exUAmvXJEcluL2GKyi15y622ALm9CH9iPc-5a4Tc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-display-tab-buck_2AzNSFIpf_nL9_sU24X--AuLY/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-display-tab-buck_2AzNSFIpf_nL9_sU24X--AuLY/74t5cLBa-q9gEMP5exoGNCLmQdUt2zELBfPfHgJxNSo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-display-tab-sett_aGHm5HRD5V1PrgP1S_GAT_XQN/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-display-tab-sett_aGHm5HRD5V1PrgP1S_GAT_XQN/5H2N7TIEEOb7eyPKu9KwuTmvonaWVb6zIkljbqlpTHE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-view-displays-li_3h2ehWV8J56DdzMqSB0-fgx72/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-view-displays-li_3h2ehWV8J56DdzMqSB0-fgx72/aXduA--i8JyIgSx5YIU7Xw73GlK0zHCjKKRDrAWVbH8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-view-preview-sec_nt2AwRksug_gAjZb0RIz2hht4/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-view-preview-sec_nt2AwRksug_gAjZb0RIz2hht4/nIOp5gGd6aR24ANRO7YtMgmAVHTWo_HfKyK9quXB9Pg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-views-listing-ta_43eLRnt0uE9iQsHwUOpEu9ICh/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-ui-views-listing-ta_43eLRnt0uE9iQsHwUOpEu9ICh/mmh-x_ScnTa8zWYXSD3oL38k76pCbVwkJAHlqm6foNw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view-field.html.twi_ircfRzWYb3b5gEvsppxk180Xo/pEsU0u6BH_kU6rzLy0WT_lXzvog7DrniuEXxK751QHY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view-fields.html.tw_79KxSbVe5oTn3IzX89NSIXQIX/8U8S50HwcJpmRNBrj9CwhGyW9sikFrw0PTOutePRIVs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view-slideshow.html_1atubJeBaVRV-kuXq6R7cfWU7/iSbIoslKO2QaxyOvllZ6BddLP7N8tautkqA33aAcYC0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view-table.html.twi_ieXwUSIXYeddH7_E7Y2XIL5Pe/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view-table.html.twi_ieXwUSIXYeddH7_E7Y2XIL5Pe/WsFSyeBxP9ZXH8u_yM3B1Hx61HuIyMZFEEz0u3GfLFE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view-unformatted.ht_1FyTFOP2nMqfXqflkHEJly1Hc/vBTOTUwnujW7Kr872S_qsu64_eIaBQ7ahJnkYgXJas8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view.html.twig_DvYiNrJ32rkHu44NRQwzu6e3y/uQMSp6WIYf6z9MazWS9qxdPNThpppfnB4XmnKd5wkNs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view.html.twig_My8wCKNyJv0eBmdCJ1uPxYt8x/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/drupal-project/web/sites/default/files/php/twig/59b228bb8dfb5_views-view.html.twig_My8wCKNyJv0eBmdCJ1uPxYt8x/_SxQwKwsamlgwYkyQPraRw1tlWHNtli8LenUNTkAAG8.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/html.html.twig" afterPath="$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/html.html.twig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/menu--main.html.twig" afterPath="$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/menu--main.html.twig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/page.html.twig" afterPath="$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/page.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,52 +209,42 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="nextgen.info.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/nextgen.info.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="html.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/html.html.twig">
+        <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/html.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+            <state relative-caret-position="30">
+              <caret line="55" column="112" lean-forward="false" selection-start-line="55" selection-start-column="112" selection-end-line="55" selection-end-column="112" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu--main.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/menu--main.html.twig">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drupal-project/web/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-495">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="106">
+              <caret line="7703" column="7" lean-forward="false" selection-start-line="7703" selection-start-column="6" selection-end-line="7703" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drupal-project/web/assets/js/jquery.js">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drupal-project/web/assets/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="151">
+              <caret line="2946" column="21" lean-forward="false" selection-start-line="2946" selection-start-column="21" selection-end-line="2946" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/page.html.twig">
+      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="97" column="31" lean-forward="false" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
+            <state relative-caret-position="975">
+              <caret line="181" column="6" lean-forward="false" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -88,12 +273,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/drupal-project/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drupal-project/web/assets/js/jquery.cycle/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -120,14 +318,25 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bd</find>
+      <find>nav-pills</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/drupal-project/web/themes/nextgen/nextgen.info.yml" />
-        <option value="$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/html.html.twig" />
         <option value="$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/page.html.twig" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/drupal-project/.gitignore" />
+        <option value="$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/html.html.twig" />
+        <option value="$PROJECT_DIR$/drupal-project/web/assets/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/page.html.twig" />
       </list>
     </option>
   </component>
@@ -159,6 +368,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,6 +431,114 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nextgen" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nextgen" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nextgen" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="libraries" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -250,6 +568,80 @@
               <option name="myItemId" value="libraries" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jquery.hoverIntent" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -273,7 +665,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -281,10 +677,35 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.lptest.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-project" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,15 +716,16 @@
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v4.8.3/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/drupal-project/web/libraries/superfish" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/drupal-project/web/assets/js" />
       <recent name="$PROJECT_DIR$/drupal-project/web" />
       <recent name="$PROJECT_DIR$/drupal-project/web/libraries/jquery.hoverIntent" />
       <recent name="$PROJECT_DIR$/drupal-project/web/libraries/jquery.cycle" />
       <recent name="$PROJECT_DIR$/drupal-project/web/libraries" />
-      <recent name="$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/drupal-project/web/themes/nextgen" />
+      <recent name="$PROJECT_DIR$/drupal-project/web/libraries/superfish" />
     </key>
   </component>
   <component name="RunManager">
@@ -335,6 +757,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -369,32 +797,33 @@
       <option name="presentableId" value="Default" />
       <updated>1524157538115</updated>
       <workItem from="1524157539689" duration="10289000" />
+      <workItem from="1524199366936" duration="2404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10289000" />
+    <option name="totallyTimeSpent" value="12693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="36" width="1260" height="684" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -410,11 +839,93 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/js/jquery.js">
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/nextgen.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/html.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/menu--main.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="31" lean-forward="false" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/lptest.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/libraries/jquery.cycle/jquery.cycle.lite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/libraries/jquery.hoverIntent/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -447,25 +958,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/menu--main.html.twig">
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/menu--main.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/html.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/nextgen.info.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
+        <state relative-caret-position="15">
           <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding />
         </state>
@@ -479,14 +982,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drupal-project/web/libraries/jquery.cycle/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/libraries/jquery.cycle/LICENSE.txt" />
     <entry file="file://$PROJECT_DIR$/drupal-project/web/libraries/jquery.cycle/jquery.cycle.lite.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -499,14 +995,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/assets/templates/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="97" column="31" lean-forward="false" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -530,7 +1018,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drupal-project/README.md">
+    <entry file="file://$PROJECT_DIR$/drupal-project/README.md" />
+    <entry file="file://$PROJECT_DIR$/drupal-project/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/assets/js/jquery.cycle/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -541,10 +1038,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drupal-project/.gitignore">
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="106">
+          <caret line="7703" column="7" lean-forward="false" selection-start-line="7703" selection-start-column="6" selection-end-line="7703" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/assets/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="2946" column="21" lean-forward="false" selection-start-line="2946" selection-start-column="21" selection-end-line="2946" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/html.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="55" column="112" lean-forward="false" selection-start-line="55" selection-start-column="112" selection-end-line="55" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal-project/web/themes/nextgen/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="181" column="6" lean-forward="false" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
           <folding />
         </state>
       </provider>
