@@ -8,6 +8,7 @@ global:
       assets/css/style.css: {}
       assets/css/style.ie.min.css: {}
       assets/css/style.min.css: {}
+
   js:
     assets/js/bootstrap.min.js: {}
     assets/js/CloudZoom.js: {}
